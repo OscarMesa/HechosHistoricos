@@ -1,1 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HechosHistoricos SYSTEM "HechosHistoricos.dtd">
+<!--<!DOCTYPE HechosHistoricos []> -->
+
+<HechosHistoricos>
+    <HechoHistorico>
+        <Fecha></Fecha>
+        <PersonajeDestacado/>
+        <HechoCurioso>
+            <Titulo>Test titulo</Titulo>
+            Test del Hecho curioso
+            <Lugar>Test lugar hecho historico</Lugar>
+        </HechoCurioso>
+    </HechoHistorico>
+</HechosHistoricos>

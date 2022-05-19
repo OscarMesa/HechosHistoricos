@@ -1,0 +1,7 @@
+<!ELEMENT HechosHistoricos (HechoHistorico)>
+<!ELEMENT HechoHistorico (Fecha, PersonajeDestacado, HechoCurioso)>
+<!ELEMENT Fecha (#PCDATA)>
+<!ELEMENT PersonajeDestacado EMPTY>
+<!ELEMENT HechoCurioso ANY>
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Lugar (#PCDATA)>
